@@ -1,1 +1,21 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<Bug_report>
+  <ID>2233</ID>
+  <Summary>Main page: button orders doesn't translate after choose arabic language</Summary>
+  <Description>
+    <Result>button orders doesn't translate after choose arabic language<Result>
+    <EXP_result>All page is translated into arabic language</EXP_result>
+  </Description>
+  <STR>
+    <1>Download site</1>
+    <2>Log in to the system</2>
+    <3>Of the dropdown Languages choose arabic language</3>
+    <4>Click to the button Save</4>
+   </STR>
+   <Severity>Trivial</Severity>
+   <Priority>Low</Priority>
+   <Environments>Windows 10, Version 97.0.4692.99 (Official build), (64 bit)</Environments>
+   <Workaround>?</Workaround>
+   <Comments>?</Comments>
+   <Attachments>LINK</Attachments>
+</Bug_report>
