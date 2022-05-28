@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<about_myself>
+	<Full_name>
+		<first_name>Yury</first_name>
+		<surname>Selivanov</surname>
+		<patronymic>Aleksandrovich</patronymic>
+	</Full_name>
+	<Age>35</Age>
+	<Number_of_pets>0</Number_of_pets>
+	<Salary>1000</Salary>
+</about_myself>
