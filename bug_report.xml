@@ -7,10 +7,10 @@
 		<EXP_result>All page is translated into arabic language</EXP_result>
 	</Description>
 	<STR>
-		<1>Download site</1>
-		<2>Log in to the system</2>
-		<3>Of the dropdown Languages choose arabic language</3>
-		<4>Click to the button Save</4>
+		<one>Download site</one>
+		<two>Log in to the system</two>
+		<three>Of the dropdown Languages choose arabic language</three>
+		<four>Click to the button Save</four>
 	</STR>
 	<Severity>Trivial</Severity>
 	<Priority>Low</Priority>
